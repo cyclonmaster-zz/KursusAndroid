@@ -1,6 +1,6 @@
 {
     "succcess": true,
     "rows": [        
-        { "id": "1", "kursus": "Kursus Pembangunan Aplikasi Mudah Alih Android", "tarikh": "22 Oktober 2016", "masa": "09:00AM - 05:00PM", "lokasi": "Kompande Training Centre, Samarahan, Sarawak"}
+        { "id": "1", "image": "https://cyclonmaster.github.io/KursusAndroid/data/android.png", "kursus": "Kursus Pembangunan Aplikasi Mudah Alih Android", "tarikh": "22 Oktober 2016", "masa": "09:00AM - 05:00PM", "lokasi": "Kompande Training Centre, Samarahan, Sarawak", "yuran": "RM400", "kelebihan": "1. Sijil Penyertaan<br>2. Handout kursus<br>3. Installer Android SDK<br>4. Contoh kod aturcara<br>5. Kepandaian membina aplikasi Android"}
     ]
 }
